@@ -1,0 +1,10 @@
+function minhaFuncao(valor1, valor2) {
+if (valor1 > valor2){
+    console.log(valor1 + " É maior que " + valor2) 
+
+} else {
+    console.log (valor1 + " Não é maior que " + valor2)
+}
+}
+
+minhaFuncao(6, 10)
